@@ -1,6 +1,6 @@
 <!-- Bandeau haut stylé -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1B1F23&height=200&section=header&text=Saad%20Draissi&fontSize=50&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1B1F23&height=200&section=header&text=Achraf%20Boujattou&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </div>
 
 <div align="center">
