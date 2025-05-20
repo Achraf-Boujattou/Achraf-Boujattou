@@ -1,137 +1,142 @@
-<!-- Bandeau haut stylé -->
+<!-- BANNIÈRE ANIMÉE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1B1F23&height=200&section=header&text=Achraf%20Boujattou&fontSize=50&fontColor=ffffff&animation=twinkling" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C72CB&height=190&section=header&text=Votre%20Nom&desc=Full%20Stack%20Developer%20|%20Creative%20Coder&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&descAlignY=55" width="100%" alt="Bannière du profil"/>
 </div>
 
+<!-- TITRE ANIMÉ -->
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ing%C3%A9nieur+Logiciel+en+Devenir;Fullstack+Web+Developer;Apprentissage+Continu)
-
-  <br>
-
-  [![GitHub followers](https://img.shields.io/github/followers/Draissi_Saad?logo=GitHub&style=flat-square)](https://github.com/Draissi_Saad)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/saad-draissi)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=safari)](https://votre-portfolio.com)
-
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C72CB&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver;Creative+Coder;Always+Learning" alt="Typing SVG" /></a>
 </div>
 
----
-
-## 👋 À propos de moi
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-
-- 🎓 Étudiant en **Génie Logiciel** & **Science des Données**
-- 🚀 Toujours motivé par l'**amélioration continue**
-- 💡 Passionné de **résolution de problèmes complexes**
-- 🌍 Intéressé par le **développement Web Fullstack**
-- 🧠 Curieux des **nouvelles technologies et bonnes pratiques**
-
----
-
-## 🛠️ Stack & Compétences
-
-### 💻 Langages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square)
-
-### 🧱 Bases de Données
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-
-### 🔧 Outils & DevOps
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-
----
-
-## 🚀 En cours d'apprentissage
-
+<!-- BOUTONS SOCIAUX -->
 <div align="center">
+   <a href="mailto:votre.email@exemple.com">
+      <img src="https://img.shields.io/badge/Email-6C72CB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;"/>
+   </a>
+   <a href="https://linkedin.com/in/votre-profil">
+      <img src="https://img.shields.io/badge/linkedin-6C72CB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
+   </a>
+   <a href="https://github.com/votre-profil">
+      <img src="https://img.shields.io/badge/github-121212?style=for-the-badge&logo=github&logoColor=white" alt="Github" style="margin-bottom: 5px;"/>
+   </a>
+   <a href="https://instagram.com/votre-profil">
+      <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;"/>
+   </a>
 
-![Microservices](https://img.shields.io/badge/Microservices-in%20progress-black?style=flat-square&logo=fastapi)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-black?style=flat-square&logo=githubactions)
-![React Native](https://img.shields.io/badge/React_Native-Mobile-black?style=flat-square&logo=react)
-![ML](https://img.shields.io/badge/Machine_Learning-Learning-black?style=flat-square&logo=tensorflow)
-
+   <!-- COMPTEUR DE VUES -->
+   <a href="https://komarev.com/ghpvc/?username=votre-username&style=for-the-badge&color=6C72CB">
+      <img src="https://komarev.com/ghpvc/?username=votre-username&style=for-the-badge&color=6C72CB" alt="Compteur de vues du profil" />
+   </a>
 </div>
 
 ---
 
-## 📊 Statistiques GitHub
+<br/>
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Draissi_Saad&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=Draissi_Saad&theme=tokyonight&hide_border=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draissi_Saad&layout=compact&theme=tokyonight&hide_border=true)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Draissi_Saad&theme=tokyonight)
-
+<!-- À PROPOS DE MOI -->
+<div>
+   <h2 align="center">✨ À propos de moi</h2>
+   <div align="center">
+      <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+      
+```javascript
+const aboutMe = {
+   nom: "Votre Nom",
+   localisation: "Votre Ville, Pays",
+   poste: "Full Stack Developer",
+   passions: ["Développement Web", "UX Design", 
+             "Open Source", "Nouvelles Technologies"],
+   enApprentissage: ["React Native", "AWS", "GraphQL"],
+   funFact: "Je code mieux avec un café à portée de main",
+   citation: "Le code est comme l'humour. Quand on doit 
+             l'expliquer, c'est mauvais."
+};
+```
+   </div>
 </div>
 
----
+<br/>
+<br/>
 
-## 🤝 Collaborations
-
-👨‍💻 Je suis ouvert aux collaborations pour :
-
-- 🧩 Projets Open Source
-- 🌱 Applications Web innovantes
-- 🎯 Projets à impact social
-- 📚 Outils éducatifs
-
----
-
-## 📬 Contact
+<!-- TECH STACK & SKILLS -->
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=flat-square)](mailto:votre-email@exemple.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/saad-draissi)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=flat-square)](https://twitter.com/Draissi_Saad)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat-square)](https://github.com/Draissi_Saad)
-
+   <!-- FRONTEND -->
+   <h3 align="center">Frontend</h3>
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass" alt="Frontend Skills" />
+   </a>
+   
+   <!-- BACKEND -->
+   <h3 align="center">Backend</h3>
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,go" alt="Backend Skills" />
+   </a>
+   
+   <!-- DATABASES -->
+   <h3 align="center">Bases de données</h3>
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase" alt="Database Skills" />
+   </a>
+   
+   <!-- OUTILS -->
+   <h3 align="center">Outils & Autres</h3>
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,webpack,vite" alt="Tools Skills" />
+   </a>
+   
+   <!-- EN COURS D'APPRENTISSAGE -->
+   <h3 align="center">En cours d'apprentissage</h3>
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws,graphql,flutter,tensorflow" alt="Learning Skills" />
+   </a>
 </div>
 
----
+<br/>
 
-## ✨ Citation aléatoire
-
+<!-- VISUALISATION TECH STACK -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=3&theme=catppuccin_mocha&align=center&hideTitle=true&line1=react,react,61DBFB;next.js,next.js,ffffff;typescript,typescript,3178C6;&line2=node.js,node.js,339933;express,express,ffffff;mongodb,mongodb,47A248;&line3=git,git,F05032;docker,docker,2496ED;figma,figma,F24E1E;" alt="Tech Stack" />
 </div>
 
----
+<br/>
 
-## 🐍 Snake Animation
+<blockquote align="center">
+   "La simplicité est la sophistication suprême." — Leonardo da Vinci
+</blockquote>
+
+<br/>
+
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Draissi_Saad/Draissi_Saad/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation">
+   <img src="https://github-stats-alpha.vercel.app/api?username=votre-username&cc=000&tc=6C72CB&ic=fff&bc=000" alt="GitHub Stats" />
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+   <img src="https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C72CB&icon_color=6C72CB" alt="GitHub Stats" height="170"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C72CB" alt="Top Languages" height="170"/>
+</div>
+
+<br/>
+
+<div align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=votre-username&theme=tokyonight" alt="GitHub Profile Summary" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=votre-username&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<!-- PIED DE PAGE -->
+<div align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C72CB&height=120&section=footer" width="100%" alt="Pied de page"/>
 </div>
