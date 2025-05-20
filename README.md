@@ -1,6 +1,6 @@
 <!-- Header Banner with Wave Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=190&section=header&text=John%20Doe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=55&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=190&section=header&text=Achraf%20Boujattou&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=55&descAlign=62" width="100%" />
 </div>
 
 <!-- Animated Introduction -->
@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6366f1" alt="Profile Views" />
   
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.achrafboujattou72@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/yourusername">
