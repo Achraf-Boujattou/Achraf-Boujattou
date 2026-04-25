@@ -2,15 +2,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=ACHRAF%20BOUJATTOU&fontSize=60&color=0:00fff0,50:a855f7,100:00ff88&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20React%20%26%20Laravel&descSize=18&descAlignY=75" width="100%"/>
+<!-- Capsule header (type corrigé + plus stable) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=ACHRAF%20BOUJATTOU&fontSize=50&color=0:00fff0,100:a855f7&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20React%20%26%20Laravel&descSize=16&descAlignY=75" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Laravel+%7C+MySQL;Building+modern+apps+🚀" />
+<!-- Typing animation (version stable) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Laravel+%7C+MySQL;Building+modern+apps" />
 
-<br/>
+<br/><br/>
 
-![Location](https://img.shields.io/badge/📍%20Morocco-a855f7?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Clean%20Code%20%26%20UI-00fff0?style=for-the-badge)
-![Status](https://img.shields.io/badge/Available-Yes-00ff88?style=for-the-badge)
+<!-- Badges -->
+<img src="https://img.shields.io/badge/📍%20Morocco-a855f7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Clean%20Code%20%26%20UI-00fff0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Available-Yes-00ff88?style=for-the-badge" />
 
 </div>
 
