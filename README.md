@@ -67,7 +67,7 @@ const achraf = {
 </p>
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achraf-Boujattou&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
