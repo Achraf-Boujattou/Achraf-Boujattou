@@ -62,8 +62,8 @@ const achraf = {
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=TON_USERNAME&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Achraf-Boujattou&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Achraf-Boujattou&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
