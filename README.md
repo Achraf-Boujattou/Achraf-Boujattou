@@ -78,7 +78,7 @@ const achraf = {
 
 <p align="center">
 
-<a href="mailto:achrafboujattou@gmail.com">
+<a href="mailto:achrafboujattou72@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
