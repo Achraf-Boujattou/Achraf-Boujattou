@@ -65,19 +65,6 @@ const achraf: Developer = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Tech | Description |
-|--------|------|-------------|
-| 🏥 **Pharmacy Management System** | `Laravel` `MySQL` | Full CRUD system for managing pharmacy stock, orders & clients |
-| 🎬 **Movie App** | `React Native` `OMDB API` | Browse & search movies with a clean, modern mobile UI |
-| 🎓 **School Management** | `PHP` `MySQL` | Manage students, courses, grades & schedules |
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
